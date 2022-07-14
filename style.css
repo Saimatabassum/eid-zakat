@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+body p {
+    color: gray;
+}
+
+h1 {
+    font-size: 55px;
+    padding-top: 160px;
+}
+
+.part-1 {
+    margin-left: 15%;
+    color: white;
+}
+
+.part-1 p {
+    margin-bottom: 55px;
+    color: white;
+}
+
+.sec-1 {
+    background-image: url(images/eid.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+
+}
+
+.button {
+    background-image: linear-gradient(skyblue, darkblue);
+    text-decoration: none;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.half-width {}
+
+.flexible {
+    display: flex;
+}
