@@ -147,3 +147,16 @@ h1 {
     border-radius: 5px;
     text-decoration: none;
 }
+
+.part-6 {
+    margin-top: 27%;
+    text-align: center;
+    background-color: rgb(10, 9, 9);
+    height: 150px;
+}
+
+#head-color {
+    color: red;
+    padding-top: 20px;
+    font-family: 'The Nautigal', cursive;
+}
