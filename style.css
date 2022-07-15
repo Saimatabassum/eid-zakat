@@ -73,17 +73,52 @@ h1 {
 
 .half {
     display: flex;
+    margin-top: 2%;
 }
 
 .side {
     display: flex;
     justify-content: center;
     background-color: rgb(205, 252, 255);
-    margin-right: 5%;
+    margin-right: 2%;
     width: 30%;
-    padding: 20px;
+    padding: 12px;
+    border-radius: 12px;
 }
 
 .left {
-    margin-left: 10%;
+    margin-left: 15%;
+    margin-bottom: 10%;
+}
+
+.image {
+    padding: 20px;
+}
+
+.set-image1 {
+    display: flex;
+    justify-content: left;
+    height: 250px;
+    width: 250px;
+    margin-left: 100px;
+    margin-top: 50px;
+    border: 2px solid skyblue;
+}
+
+.set-image2 {
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    width: 250px;
+    margin: 15%;
+    margin-left: 60px;
+}
+
+.set-image3 {
+    display: flex;
+    justify-content: right;
+    height: 250px;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 60px;
 }
